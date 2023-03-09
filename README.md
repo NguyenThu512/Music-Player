@@ -8,11 +8,8 @@ Basic Features:
 - Scroll active song into view
 - Play song when click
 
+Reference: https://www.youtube.com/watch?v=vAecGPWxzFE&t=185s
+
 Video demo:
 
-
 https://user-images.githubusercontent.com/127017556/223990252-38db23eb-84e4-49cf-9f40-1a050f6e74a6.mp4
-
-
-
-Reference: https://www.youtube.com/watch?v=vAecGPWxzFE&t=185s
