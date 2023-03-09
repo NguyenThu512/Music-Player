@@ -7,3 +7,5 @@ Basic Features:
 - Go to next or repeat when ended
 - Scroll active song into view
 - Play song when click
+
+Reference: https://www.youtube.com/watch?v=vAecGPWxzFE&t=185s
